@@ -8,6 +8,7 @@ Reference hub for studying and applying TIC4.0 and PAS 4000:2026 in a small inte
 - [Source identity, provenance and checksums](sources/BSI/README.md)
 - [TIC4.0 primary-source index](references/TIC40.md)
 - [Review status and next research steps](REVIEW_STATUS.md)
+- [RTG terminal operations — comparative research v0.1](references/operations/RTG_Operations_Comparative_Research_v0.1_2026-10-24.md) (provisional general operations model; owner review pending)
 
 ## Purpose and boundaries
 
